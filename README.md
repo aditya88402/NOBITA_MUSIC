@@ -35,7 +35,7 @@
 </h3>
 
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/iamnobita09/NOBITA_MUSIC"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="500" height="120.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/aditya88402/NOBITA_MUSIC"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="500" height="120.45"/></a></p>
 
 
 
